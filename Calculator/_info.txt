@@ -1,0 +1,4 @@
+*Calculator*
+
+Project was developed on Dev-C++ and Visual Studio 2010 Ultimate!
+Successful build was made by Dev-C++!
